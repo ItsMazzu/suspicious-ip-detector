@@ -1,21 +1,18 @@
-# Security Log Analyzer
+# Suspicious IP Detector
 
 ## Description
 
-This project simulates a basic security monitoring workflow used in Security Operations Centers (SOC).  
-It analyzes authentication logs to identify suspicious activity such as repeated login failures or unusual access patterns.
+A simple cybersecurity project that analyzes access logs and detects suspicious IP addresses by comparing them against a list of known malicious IPs.
 
 ## Technologies
 
 - Python
-- SQL
-- SQLite
 
 ## Features
 
-- Log parsing
-- Suspicious activity detection
-- Simple security reporting
+- Extracts IP addresses from logs
+- Compares IPs with a threat intelligence list
+- Flags suspicious activity
 
 ## Project Status
 
