@@ -1,0 +1,18 @@
+# SIEM Simulator — Dependências
+# Instale com: pip install -r requirements.txt
+
+# HTTP client para geolocalização (ip-api.com)
+requests>=2.31.0
+
+# Cores ANSI no terminal (portável para Windows/Linux/macOS)
+colorama>=0.4.6
+
+# ─── Dev / Testes (opcional) ───────────────────
+# Framework de testes mais rico (opcional — unittest já está incluído na stdlib)
+pytest>=7.4.0
+
+# Análise estática de código
+ruff>=0.4.0
+
+# Type checking
+mypy>=1.8.0
