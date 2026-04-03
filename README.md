@@ -1,4 +1,4 @@
-# 🛡️ SIEM Simulator — IP & Threat Detector
+# 🛡️ IP & Threat Detector
 
 > A Python study project focused on **cybersecurity**, simulating a core component
 > of a SIEM system: malicious IP detection with geolocation,
