@@ -26,7 +26,7 @@
 
 ## 🔍 Overview
 
-**SIEM Simulator** is a command-line application that replicates the logic of an
+**Suspicious IP Detector** is a command-line application that replicates the logic of an
 intrusion detection component found in real SIEM systems (such as Splunk,
 Elastic Security, and IBM QRadar).
 
@@ -57,7 +57,7 @@ Given a CSV file with access events or a single IP address, the system:
 ---
 
 ## 📁 Project Structure
-siem-simulator/
+suspicious-ip-detector/
 │
 ├── src/                          # Main package
 │   ├── init.py
